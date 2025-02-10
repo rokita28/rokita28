@@ -9,14 +9,21 @@ Recent graduate with a Masters degree in Cybersecurity & Threat Intelligence, Wi
 ## Skills
 
 | Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Active Directory                              | <a href="https://github.com/rokita28/Homelab-Setup-with-ActiveDirectory">Active Directory project</a>|
-| Network Configuration                         | <a href="https://github.com/rokita28/Homelab-Setup-with-ActiveDirectory">Homelab setup</a>|
-| SIEM Implementation and Log Analysis          | <a href="https://github.com/rokita28/AD-security-project">Splunk & Splunk forwarder </a>|
+|-------------------------------------------------|----------------------------|
+| Active Directory Management                     | <a href="https://github.com/rokita28/Homelab-Setup-with-ActiveDirectory">Active Directory project</a>|
+| Network Configuration                           | <a href="https://github.com/rokita28/Homelab-Setup-with-ActiveDirectory">Homelab setup</a>|
+| SIEM Implementation and Log Analysis            | <a href="https://github.com/rokita28/AD-security-project"> Configuring Splunk & Splunk forwarder </a>|
+| SOC Analysis & Automation                       | <a href="https://github.com/rokita28/SOC-Automation-LAB">SOC Automation Project </a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/rokita28/AD-security-project">Detection Lab</a>|
 | Privacy Analysis & Threat Intelligence
 
 ## Tools
+### Version Control
+<div>
+  <img src="https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" />
+</div>
+
 ### Offensive Security
 <div>
   <img src="https://img.shields.io/badge/-Kali_Linux-557C94?&style=for-the-badge&logo=kalilinux&logoColor=white">
@@ -55,17 +62,27 @@ Recent graduate with a Masters degree in Cybersecurity & Threat Intelligence, Wi
     <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
 </div>
 
-### SIEM
+### SIEM & AUTOMATION
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-0078D4?&style=for-the-badge&logo=Wazuh&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TheHive-FCC624?&style=for-the-badge&logo=TheHive&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Shuffle_Security-000000?&style=for-the-badge&logo=Shuffle&logoColor=white" />
+    
+    
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
+## Projects
+  - <a href="https://github.com/rokita28/Homelab-Setup-with-ActiveDirectory">Homelab setup</a>
+  - <a href="https://github.com/rokita28/Homelab-Setup-with-ActiveDirectory">Active Directory project</a>
+  - <a href="https://github.com/rokita28/AD-security-project"> Configuring Splunk & Splunk forwarder </a>
+  - <a href="https://github.com/rokita28/SOC-Automation-LAB">SOC Automation Project </a>
+  
